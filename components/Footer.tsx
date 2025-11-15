@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        <p>&copy; 2024 Kass Ventures. All rights reserved.</p>
+        <p>&copy; 2024 KASS Ventures. All rights reserved.</p>
       </div>
     </footer>
   )

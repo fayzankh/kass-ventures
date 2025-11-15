@@ -4,6 +4,54 @@ export default function Founders() {
       <div className="container">
         <h2 className="section-title">Our Founders</h2>
         <div className="founders-grid">
+
+
+          <div className="founder-card">
+            <div className="founder-image">
+              <div className="founder-placeholder">
+                <span>TA</span>
+              </div>
+            </div>
+            <h3 className="founder-name">Tahir Altalib</h3>
+            <p className="founder-title">Co-Founder & CFO</p>
+            <a href="mailto:about@gmail.com" className="contact-me">Contact Me</a>
+          </div>
+
+          <div className="founder-card">
+            <div className="founder-image">
+              <div className="founder-placeholder">
+                <span>MS</span>
+              </div>
+            </div>
+            <h3 className="founder-name">Muaz Shaikh</h3>
+            <p className="founder-title">Co-Founder & COO</p>
+            <a href="mailto:about@gmail.com" className="contact-me">Contact Me</a>
+          </div>
+
+          <div className="founder-card">
+            <div className="founder-image">
+              <div className="founder-placeholder">
+                <span>MS</span>
+              </div>
+            </div>
+            <h3 className="founder-name">Musab Syed</h3>
+            <p className="founder-title">Co-Founder & CTO</p>
+            <a href="mailto:about@gmail.com" className="contact-me">Contact Me</a>
+          </div>
+          
+
+          <div className="founder-card">
+            <div className="founder-image">
+              <div className="founder-placeholder">
+                <span>SK</span>
+              </div>
+            </div>
+            <h3 className="founder-name">Sufyan Khan</h3>
+            <p className="founder-title">Co-Founder & CMO</p>
+            <a href="mailto:about@gmail.com" className="contact-me">Contact Me</a>
+          </div>
+          
+
           <div className="founder-card">
             <div className="founder-image">
               <div className="founder-placeholder">
@@ -11,27 +59,10 @@ export default function Founders() {
               </div>
             </div>
             <h3 className="founder-name">Fayzan Khan</h3>
-            <p className="founder-title">Co-Founder & CEO</p>
-            <p className="founder-bio">
-              With over 15 years of experience in financial services, Fayzan brings visionary 
-              leadership and deep industry expertise to Kass Ventures. His strategic insights 
-              have guided the company's growth and established our reputation for excellence.
-            </p>
+            <p className="founder-title">Co-Founder & CAO</p>
+            <a href="mailto:about@gmail.com" className="contact-me">Contact Me</a>
           </div>
-          <div className="founder-card">
-            <div className="founder-image">
-              <div className="founder-placeholder">
-                <span>JD</span>
-              </div>
-            </div>
-            <h3 className="founder-name">John Doe</h3>
-            <p className="founder-title">Co-Founder & CFO</p>
-            <p className="founder-bio">
-              John's extensive background in corporate finance and investment management has been 
-              instrumental in building Kass Ventures' robust financial foundation. His analytical 
-              approach ensures sound decision-making and sustainable growth.
-            </p>
-          </div>
+          
         </div>
       </div>
     </section>
